@@ -72,5 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # API Config
-/[Aa]ssets/[Cc]onfig/APIConfig.asset
 /[Aa]ssets/APIConfig.asset
