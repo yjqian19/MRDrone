@@ -1,7 +1,7 @@
-# MRDrone: Spatial Instructions Using Object as a Reference
+# Voice-based MR Drone Control Agent
 
 ## Overview
-MRDrone is a Mixed Reality application where users control a virtual drone through spatial instructions, leveraging real-world objects as reference points. This project was developed as the term project for MIT 6.8510: Multimodal User Interface.
+MRDrone is a Mixed Reality application where users control a virtual drone through spatial instructions, leveraging real-world objects as reference points. This project was fully developed by Yujia Qian.
 
 - **Demo Video**: [YouTube Demo](https://youtu.be/vn8-CInzByg)
 - **Project Report**: [Google Docs Report](https://docs.google.com/document/d/1BuWmL3Te1N_GTQz21ap-sFwEYuVOMiMqNWNhw17zYbE/edit?usp=sharing)
