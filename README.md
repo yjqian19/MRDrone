@@ -7,6 +7,9 @@ MRDrone is a Mixed Reality application that enables users to control a virtual d
 - **Project Report**: [Google Docs Report](https://docs.google.com/document/d/1BuWmL3Te1N_GTQz21ap-sFwEYuVOMiMqNWNhw17zYbE/edit?usp=sharing)
 - **Final APK**: Find the installable version at `BuildSDKs/v1.1.apk` which can be directly installed on Meta Quest devices through the Meta Developer Center.
 
+## System Diagram
+![diagram](system%20diagram.png)
+
 ## Assets Directory
 This section focuses on the files within the `Assets` directory, which are central to the application's functionality. Other folders contain files necessary for Unity's operation and project structure. Key components include:
 
