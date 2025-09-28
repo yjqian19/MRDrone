@@ -1,7 +1,7 @@
-# Voice-based MR Drone Control Agent (MRDrone)
+# Voice-based MR Drone Control Agent
 
 ## Overview
-MRDrone is a Mixed Reality application that enables users to control a virtual drone through voice-based spatial instructions, using real-world objects as reference anchors. This project was independently designed and developed by Yujia Qian.
+This is a Mixed Reality application that enables users to control a virtual drone through voice-based spatial instructions, using real-world objects as reference anchors. This project was independently designed and developed by Yujia Qian.
 
 - **Video**  
   *Click the photo to watch the video 👇 or jump [here](https://youtu.be/vn8-CInzByg)*  
