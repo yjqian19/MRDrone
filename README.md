@@ -3,7 +3,8 @@
 ## Overview
 MRDrone is a Mixed Reality application that enables users to control a virtual drone through voice-based spatial instructions, using real-world objects as reference anchors. This project was independently designed and developed by Yujia Qian.
 
-- **Demo Video**: [YouTube Demo](https://youtu.be/vn8-CInzByg)
+- **[Demo Video](https://youtu.be/vn8-CInzByg)**  
+  [![Watch the video](https://img.youtube.com/vi/vn8-CInzByg/0.jpg)](https://youtu.be/vn8-CInzByg)
 - **Project Report**: [Google Docs Report](https://docs.google.com/document/d/1BuWmL3Te1N_GTQz21ap-sFwEYuVOMiMqNWNhw17zYbE/edit?usp=sharing)
 - **Final APK**: Find the installable version at `BuildSDKs/v1.1.apk` which can be directly installed on Meta Quest devices through the Meta Developer Center.
 
